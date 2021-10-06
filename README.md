@@ -1,10 +1,10 @@
 # ConversationalAIExercise
 
-1) Run below command
+1) Run below command to install plugins.
 
 npm install axios lodash
 
-2) Run below commnd 
+2) Run below command to start application.
 
 node index.js
 
